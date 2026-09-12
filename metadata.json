@@ -1,0 +1,6 @@
+{
+  "name": "TAHUBULAT AI - Mobile APK Studio",
+  "description": "Aplikasi mobile AI on-device TAHUBULAT AI & MiniGen v1.2 untuk Infinix Hot 40 Pro (X6837 Helio G99) dan Hot 70 Pro (X6896 Dimensity 7100), simulator DDIM INT8, dan generator proyek native APK Android Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
